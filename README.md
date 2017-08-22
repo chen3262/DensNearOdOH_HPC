@@ -1,4 +1,4 @@
-# Rectified_Trj
+# DensNearOdOH_HPC
 
 <img src ="https://github.com/chen3262/DensNearOdOH_HPC/blob/master/pic.png" width="600">
 
