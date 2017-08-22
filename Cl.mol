@@ -1,0 +1,17 @@
+[ Atom ]
+Name
+Cl
+[ Number of Atoms ]
+3
+[ Time steps (ps) ]
+0.1
+[ Ref Atom ]
+Name
+Od
+[ Number of Ref atoms ]
+18
+[ Ref Atom ]
+Name
+OH
+[ Number of Ref atoms ]
+70

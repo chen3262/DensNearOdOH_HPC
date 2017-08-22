@@ -1,0 +1,21 @@
+System information: 
+Atom:   OW
+nmol:   2654
+Sampling Time step (ps): 0.1
+nbin:   300
+zcut:   3 nm
+rcut2D  0.3 nm
+Skipped steps:  0
+NOd:    18
+NOH:    70
+
+CUDA information: 
+frameblock:	47
+nStreams:	2654
+
+Reading step: 0 (0 ps)
+Elapsed time is :  1 seconds 
+
+Debug information: 
+Number of frames: 11
+Total number of : OW atoms near Od within zcut = 3 nm:   549.909119
